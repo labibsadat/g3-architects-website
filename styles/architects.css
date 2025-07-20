@@ -167,6 +167,9 @@ max-width: 530px;
     justify-content: center;
    
 }
+.fact-container{
+    margin-left: 20px;
+}
 .facts-container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
