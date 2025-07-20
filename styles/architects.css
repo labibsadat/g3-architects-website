@@ -203,6 +203,7 @@ max-width: 530px;
 }
 /* footer part */
 footer{
+    margin-top: 30px;
     width:100%;
     height: 100px;
     background-color: #FFF4E7;
